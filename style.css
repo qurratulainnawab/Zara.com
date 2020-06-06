@@ -1,0 +1,140 @@
+.navbar {
+    background-color:#303F9F !important;
+}
+.nav-link{
+         color: black !important;
+         margin-left: 50px;
+
+}
+
+.navbar-nav{
+    margin-left: 60px;
+}
+
+.navlogo{
+    height: 60px;
+    width: 200px;
+    margin-left: 90px;
+}
+.fa-user-o,.fa-shopping-cart{
+    font-size: 25px !important;
+    
+}
+
+div nav-link{
+    color: white !important;
+}
+
+
+/* 
+.categories{
+            
+}
+
+.card{
+    
+
+    height: 250px;
+    margin-top: 50px;
+} */
+
+.row-cols-1{
+    margin-left: 20px;
+}
+.card{
+    width: 370px;
+    height: 430px;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 20px;
+}
+.row{
+    margin:50px 0 50px 50px !important;
+}
+.col{
+    margin: -20px;
+    
+    
+}
+.card-body{
+    text-align: center;
+}
+
+
+.no{
+    height: 200px;
+    width: 100% ;
+    background-color:#303F9F;
+    color: white;
+    
+    text-align: center;
+    margin-top: 20px ;
+}
+
+
+
+/* .subscribe{
+        width: 100% ;
+        display: flex;
+        align-content: center;
+}       */
+
+/* .input-group-append{
+    align-items: center;
+
+} */
+
+#button-addon2{
+          color: white;
+          background-color: black;
+          text-align: center;
+
+}
+
+
+
+.container{
+    margin-top: 20px;
+    width: 100%;
+}
+
+.container img{
+              margin-bottom: 20px;
+}
+
+
+.btn-floating{
+         padding: 5px;
+}
+
+.footer-copyright{
+    background-color:black;
+    color: white;
+}
+
+.about {
+    
+       margin: 100px 0 100px 0;
+       
+       
+}
+.about h1{
+        margin-left: -5px;
+}
+
+.about p{
+        margin-top: 50px;
+}
+
+.account{
+        margin: 50px 0 0 50px;
+}
+.form-row,.form-group{
+                      width: 80%;
+                      margin-left: 150px;
+}
+
+.account button,h1{
+            margin-left: 150px;
+            margin-bottom: 50px;
+}
